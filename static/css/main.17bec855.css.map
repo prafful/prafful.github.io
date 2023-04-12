@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.17bec855.css","mappings":"AAAA,YACI,YAEJ,CAEA,WACI,UACJ","sources":["assets/style.css"],"sourcesContent":[".trashColor{\n    color: orange;\n    \n}\n\n.editColor{\n    color:blue;\n}"],"names":[],"sourceRoot":""}
